@@ -1,0 +1,2 @@
+# Reinforcement-Learning-based-routing-framework-for-SD-WANs
+Reinforcement learning-based routing framework for SD-WANs that dynamically optimizes routing paths in real-time. The solution Efficiently adapt to varying link performance and application-specific QoS requirements. Scale to large, distributed networks with diverse transport links. Minimize latency, maximize throughput, and ensure reliability.
